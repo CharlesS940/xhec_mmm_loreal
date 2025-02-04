@@ -1,0 +1,25 @@
+growth_driver_l1,growth_driver_l2,growth_driver_l3,growth_driver_l4,growth_driver_l5,metric,definition
+ap_consumer_facing,consumer_engagement,advocacy_media,influencer_management,influencer_management,engagements,"Costs of social media influencers, not dedicated _x000B_to L'Oréal and with a remuneration based on generated impressions, engagement or a fixed rate, including influencers fees, agency fees, travels, events dedicated _x000B_to influencers, gifts, or production costs if any, and excluding social sellers"
+ap_consumer_facing,consumer_engagement,paid_media,digital_tv,bvod,impressions,"Publisher platforms whose primary objective is the broadcast _x000B_of video content excluding social platforms but including Catch-up TV (ie. video ads on Hulu, My TF1, BBC i-Player, Amazon OTT...), and for which the campaign objective is awareness or consideration. Inclusive of sponsorship."
+ap_consumer_facing,consumer_engagement,paid_media,online_multiformat_ads_transaction,amazon_retail,impressions,"Static, rich or video banners for publishers, retailer and pure player space or ad networks (i.e.. Condenast, Teads, FT.com…) _x000B_whose objective being transaction. Inclusive of sponsorship."
+ap_consumer_facing,consumer_engagement,paid_media,online_multiformat_ads_transaction,tesco,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,online_video_content_platforms,google_video,impressions,"Publisher platforms whose primary objective is the broadcast _x000B_of video content excluding social platforms/Catch-up TV (ie. video ads on YouTube, Dailymotion, Vimeo…) and for which the campaign objective is awareness or consideration. Inclusive of sponsorship"
+ap_consumer_facing,consumer_engagement,paid_media,online_video_content_platforms,youtube,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,paid_search_awarenessconsideration,google,impressions,"Dedicated search platforms purchasing branded or generic keywords and obtain a favorable ranking on the search tools pages (Google, Bing) with campaign objective as Awareness/consideration.
+Inclusive of sponsorship."
+ap_consumer_facing,consumer_engagement,paid_media,paid_search_transaction,amazon,impressions,"Dedicated search platforms purchasing branded or generic keywords and obtain a favorable ranking on the search tools pages (Google, Bing) with campaign objective as E-commerce conversion (Retailer included).All Retailers should be included. Inclusive _x000B_of sponsorship."
+ap_consumer_facing,consumer_engagement,paid_media,paid_search_transaction,citrus,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,paid_search_transaction,criteo,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,social_media_awarenessconsideration,meta,impressions,"Social networks (Facebook, Instagram, Snapchat, Twitter, RenRen, Whatsapp, WeChat, Weibo, Line, Messenger, KakaoTalk etc…) , regardless of the format, that can be image, text or video. _x000B_The objective of such campaign being Awareness/Consideration. Inclusive of sponsorship."
+ap_consumer_facing,consumer_engagement,paid_media,social_media_awarenessconsideration,pinterest,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,social_media_awarenessconsideration,tik_tok,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,social_media_transaction,meta,impressions,"Social networks (Facebook, Instagram, Snapchat, Twitter, RenRen, Whatsapp, WeChat, Weibo, Line, Messenger, KakaoTalk etc…), regardless of the format, that can be image, text or video. _x000B_The objective of such campaign _x000B_being E-commerce conversion (transaction).
+All Retailers should be included. Inclusive of sponsorship"
+ap_consumer_facing,consumer_engagement,paid_media,social_media_transaction,meta_collab_ads,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,social_media_transaction,tesco,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,social_media_transaction,the_hut_group,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,social_media_transaction,tik_tok,impressions,
+ap_consumer_facing,consumer_engagement,paid_media,traditional_tv,linear,grps,"Advertising on television (linear, cable, satellite)
+Inclusive of sponsorship."
+ap_consumer_facing,shopper_experience,shopper_experience,testers_and_merchandising,testers_and_merchandising,units,"Elements used to display products in points of sale
+Testers : tests in shops VS Merchandising : displays in shops_x000B_ to present products"
